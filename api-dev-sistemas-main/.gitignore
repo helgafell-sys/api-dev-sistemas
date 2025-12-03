@@ -18,7 +18,10 @@ Thumbs.db
 node_modules/
 package-lock.json
 
-# Arquivos da pasta pai (não rastrear)
+# Diretórios da pasta pai (não rastrear)
+../Bootcamp-II/
+../Oasis Olho d'Água/
+../aula 4/
 ../Academic Portfolio Website/
 ../Avaria*.png
 ../Bootcamp2-geral/
