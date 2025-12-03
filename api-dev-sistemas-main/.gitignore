@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+*.csproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/npm
+node_modules/
+package-lock.json
+
+# Arquivos da pasta pai (não rastrear)
+../Academic Portfolio Website/
+../Avaria*.png
+../Bootcamp2-geral/
+../Class Diagram0.png
+../Portfolio/
+../Portfolio_Joao_Gabriel_Slides.*
+../Projeto Secreto/
+../Traseira.png
+../Tutorial de Commit (pushpull).txt
+../WebDesign/
+../budew.png
+../dev-sists/
+../gera_portifolio.py
+../oasis-olho-dagua/
+../projeto-integrador-1/
+../rep-dev-sistemas.txt
